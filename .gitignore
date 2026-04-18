@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Project Specific
+*.log
+.DS_Store
+
+# LlamaIndex/RAG related
+# (Ignoring these to force users to generate their own indices, or keep them if you want a ready-to-use app)
+# Algo Indices/
+# DSA Indices/
+
+# Secrets (Make sure students don't commit their API keys!)
+secrets.toml
+.env

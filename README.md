@@ -43,6 +43,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run Frontend.py
 ```
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/236d781a-8064-4ef4-b5b9-13845519dc63" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4526f953-ac9a-4cb4-b778-6d08e56299b5" width="45%" />
+</p>
 
 ## Modular Architecture (Scaffolded for Builders)
 This repository is designed as a **scaffold**. We've separated the "Brain" from the "Face" so you can build on top of it without breaking anything:
@@ -64,68 +68,14 @@ We've defined 4 major tracks for ACM students to build:
 Pick a track based on your experience level.  
 Each track contains **clear, actionable tasks**, you are expected to build and submit a contribution.
 
-#### Beginner — First Contribution
+| Level                        | Track Focus                  | Goal                                                                 | Example Tasks                                                                 | Expected Outcome |
+|-----------------------------|------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------|------------------|
+| **Beginner**<br>First Contribution | All Tracks                   | Understand the codebase and make your first meaningful change       | • Add logging for queries<br>• Implement simple commands (`/help`, `/about`)<br>• Improve the system prompt<br>• Add input validation<br>• Small code refactor | You understand PXL + submit your **first PR** |
+| **Intermediate**<br>Feature Builders | Track A & B                  | Build useful new capabilities                                       | • Implement or expand RAG for a new course<br>• Add conversation memory<br>• Better prompting techniques<br>• Integrate external APIs (events, schedules)<br>• Create a simple modular plugin | PXL gets a **real new feature** that students can use |
+| **Advanced**<br>System Engineers | Track C & D                  | Make PXL production-ready and scalable                              | • Deploy as web app / API<br>• Build Discord bot integration<br>• Add user profiles or authentication<br>• Create analytics dashboard<br>• Optimize performance & caching | PXL becomes a **usable system** for many students |
+| **Research / Experimental** | All Tracks (especially A & B)| Push the boundaries and generate insights                           | • Compare different LLMs<br>• Experiment with prompting & retrieval methods<br>• Build evaluation benchmarks<br>• Improve embedding quality<br>• Explore fine-tuning ideas | You create **insights** (great for research or advanced learning) |
 
-**Goal:** Understand the system and make your first meaningful change.
-
-**Tasks:**
-- Add logging to track user queries and responses
-- Implement a new simple command (e.g., `/help`, `/about`, `/events`)
-- Improve or restructure the prompt for better responses
-- Add input validation or error handling
-- Refactor a small part of the code for clarity
-
-**Expected Outcome:**
-- You understand how PXL works
-- You submit your first PR
-
-#### Intermediate — Feature Builders
-
-**Goal:** Build real functionality that improves the assistant.
-
-**Tasks:**
-- Implement **RAG (Retrieval-Augmented Generation)** using a small dataset (e.g., ACM FAQs, course notes)
-- Add **conversation memory** (store and reuse previous interactions)
-- Improve response quality using better prompting strategies
-- Integrate an external API (e.g., events, schedules, announcements)
-- Design a simple modular extension (plug-in style feature)
-
-**Expected Outcome:**
-- PXL gains a meaningful new capability
-- Your contribution affects real usage
-
-#### Advanced — System Engineers
-
-**Goal:** Turn PXL into a deployable, scalable system.
-
-**Tasks:**
-- Deploy PXL as a web app or API
-- Integrate with a platform (e.g., Discord bot, web interface)
-- Implement user authentication or profiles
-- Build an analytics system (track usage, queries, engagement)
-- Optimize performance (latency, caching, efficiency)
-
-**Expected Outcome:**
-- PXL becomes a real, usable system
-- Your work impacts multiple users
-
-#### Research / Experimental — Push the Boundaries
-
-**Goal:** Explore advanced ideas and improve system intelligence.
-
-**Tasks:**
-- Experiment with different prompting techniques and evaluate results
-- Compare multiple LLMs and analyze performance differences
-- Implement embedding-based retrieval improvements
-- Evaluate response accuracy and design benchmarks
-- Explore fine-tuning or domain adaptation approaches
-
-**Expected Outcome:**
-- You generate insights, not just features
-- Your work can evolve into research or advanced systems work
-
-
-#### How to Proceed
+### How to Proceed
 
 1. Pick a track  
 2. Choose **one task** (or propose your own)  

@@ -61,14 +61,10 @@ We've defined 4 major tracks for ACM students to build:
 - **Track C: Discord Integration** (Bring PXL to the ACM server).
 - **Track D: Analytics Dashboard** (See what students are asking).
 
-## 🔹 Choose Your Track
-
 Pick a track based on your experience level.  
-Each track contains **clear, actionable tasks**—you are expected to build and submit a contribution.
+Each track contains **clear, actionable tasks**, you are expected to build and submit a contribution.
 
----
-
-### 🟢 Beginner — First Contribution
+#### Beginner — First Contribution
 
 **Goal:** Understand the system and make your first meaningful change.
 
@@ -83,9 +79,7 @@ Each track contains **clear, actionable tasks**—you are expected to build and 
 - You understand how PXL works
 - You submit your first PR
 
----
-
-### 🔵 Intermediate — Feature Builders
+#### Intermediate — Feature Builders
 
 **Goal:** Build real functionality that improves the assistant.
 
@@ -100,9 +94,7 @@ Each track contains **clear, actionable tasks**—you are expected to build and 
 - PXL gains a meaningful new capability
 - Your contribution affects real usage
 
----
-
-### 🔴 Advanced — System Engineers
+#### Advanced — System Engineers
 
 **Goal:** Turn PXL into a deployable, scalable system.
 
@@ -117,9 +109,7 @@ Each track contains **clear, actionable tasks**—you are expected to build and 
 - PXL becomes a real, usable system
 - Your work impacts multiple users
 
----
-
-### ⚫ Research / Experimental — Push the Boundaries
+#### Research / Experimental — Push the Boundaries
 
 **Goal:** Explore advanced ideas and improve system intelligence.
 
@@ -134,9 +124,8 @@ Each track contains **clear, actionable tasks**—you are expected to build and 
 - You generate insights, not just features
 - Your work can evolve into research or advanced systems work
 
----
 
-### 🏁 How to Proceed
+#### How to Proceed
 
 1. Pick a track  
 2. Choose **one task** (or propose your own)  

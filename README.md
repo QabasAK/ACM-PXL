@@ -1,6 +1,10 @@
 # 🤖 ACM-PXL: The PSUT Student Assistant
 
-Welcome to the official repository for **ACM-PXL**, the mascot and AI-powered tutor for the ACM Student Chapter at Princess Sumaya University for Technology (PSUT).
+Welcome to the **ACM-PXL** repository, the mascot and AI-powered tutor for the ACM Student Chapter at Princess Sumaya University for Technology (PSUT).
+
+ <p align="center">
+   <img src="https://github.com/user-attachments/assets/cd68fd15-4a23-4972-96d8-767804f22643" alt="PXL" width=40%>
+ </p>
 
 PXL is designed to help students navigate their programming courses, answer technical questions using specialized lecture notes (RAG), and provide general advice through a playful, tech-savvy personality.
 

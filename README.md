@@ -44,8 +44,8 @@ pip install -r requirements.txt
 streamlit run Frontend.py
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/236d781a-8064-4ef4-b5b9-13845519dc63" width="45%" />
-  <img src="https://github.com/user-attachments/assets/4526f953-ac9a-4cb4-b778-6d08e56299b5" width="45%" />
+  <img src="https://github.com/user-attachments/assets/236d781a-8064-4ef4-b5b9-13845519dc63" width="49%" />
+  <img src="https://github.com/user-attachments/assets/4526f953-ac9a-4cb4-b778-6d08e56299b5" width="49%" />
 </p>
 
 ## Modular Architecture (Scaffolded for Builders)

@@ -4,7 +4,7 @@ This is the place where we celebrate the **Code Cadets** who have helped bring P
 
 ## Top Contributors
 
-- **@QabasAK** - Project Creator & Architect. The one who gave PXL its first heartbeat!
+- **@QabasAK** - Project Creator & Architect, began this student initiative :)
 - **[Your Name Here]** - Your first contribution could land you right here!
 
 ---
@@ -13,7 +13,7 @@ This is the place where we celebrate the **Code Cadets** who have helped bring P
 
 | Date | Contributor | Contribution Type | Description |
 | :--- | :--- | :--- | :--- |
-| | | | |
+| July 2025| **Qabas** | Hybrid | Created PXL Website! |
 
 ---
 

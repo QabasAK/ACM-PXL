@@ -1,10 +1,10 @@
 import streamlit as st
 from streamlit_option_menu import option_menu 
-from AcademicCont import display_algorithms_course_content, display_datastructures_course_content, display_structured_course_content, display_intro2CS_course_content, display_OOP_course_content
-from BEfun import run_chatbot
-from ask import RAG_DSA, RAG_aLGO
-from Training import explaining_training_levels
-from SurvGuide import survival_guide_page
+from modules.academic import display_algorithms_course_content, display_datastructures_course_content, display_structured_course_content, display_intro2CS_course_content, display_OOP_course_content
+from core.chatbot import run_chatbot
+from core.rag_engine import RAG_DSA, RAG_aLGO
+from modules.training import explaining_training_levels
+from modules.survival import survival_guide_page
 
 
 PRIMARY   = "#2D6599AE"  

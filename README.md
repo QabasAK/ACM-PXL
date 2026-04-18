@@ -40,21 +40,24 @@ pip install -r requirements.txt
 streamlit run Frontend.py
 ```
 
-## 🤝 How to Contribute (Student Initiative!)
-We're looking for **Code Cadets** to help PXL grow! Whether you're a beginner or a pro, there's a place for you.
+## 🏗️ Modular Architecture (Scaffolded for Builders)
+This repository is designed as a **scaffold**. We've separated the "Brain" from the "Face" so you can build on top of it without breaking anything:
 
-### 🧠 Knowledge Contributions
-- **Lecture Summaries:** Help PXL learn better by adding clean, high-quality Markdown or PDF summaries of your lectures to the `DSA RAG` or `Algo RAG` folders.
-- **Bug Squashing:** Found a weird response? Report it or fix the RAG prompt in `ask.py`.
+- `core/`: The AI logic (Chatbot, RAG engine, and model settings).
+- `modules/`: Feature modules (Survival Guide, Academic Content, Training).
+- `ui/`: Reusable Streamlit components.
+- `knowledge_base/`: Raw documents (PDFs/MD) for the RAG system.
+- `blueprints/`: Empty templates and guides for the **Build Tracks**.
 
-### 💻 Code Contributions
-- **UI Enhancements:** Make PXL look even cooler with Streamlit CSS magic.
-- **Personality Quirks:** Add more puns and mascot expressions to `BEfun.py`.
-- **New Courses:** Help us expand to other courses!
+## 🤝 The PXL Build Tracks
+Don't just fix bugs—ship a whole new system! We've defined 4 major tracks for ACM students to build:
 
-### 🎨 Design & Content
-- **Survival Guide:** Add more tips for surviving PSUT to `SurvGuide.py`.
-- **FAQs:** Keep the `FAQ` section in `Frontend.py` updated.
+- **📍 Track A: RAG Expansion** (Add new courses to PXL's knowledge).
+- **🧠 Track B: Memory & Personalization** (Make PXL remember users).
+- **📡 Track C: Discord Integration** (Bring PXL to the PSUT server).
+- **📊 Track D: Analytics Dashboard** (See what students are asking).
+
+Check out **[TRACKS.md](TRACKS.md)** to pick your mission!
 
 ---
 Built with ❤️ by the **ACM Student Chapter @ PSUT**.

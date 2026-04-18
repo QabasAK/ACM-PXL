@@ -63,7 +63,7 @@ def run_rag_query(query, persist_dir):
     return response.response
 
 def RAG_aLGO(query):
-    return run_rag_query(query, "Algo Indices")
+    return run_rag_query(query, "core/indices_algo")
 
 def RAG_DSA(query):
-    return run_rag_query(query, "DSA Indices")
+    return run_rag_query(query, "core/indices_dsa")
